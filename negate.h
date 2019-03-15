@@ -5,6 +5,6 @@
 #ifndef C_COMPILE_EXECUTE_BY_HAND_INVERT_H
 #define C_COMPILE_EXECUTE_BY_HAND_INVERT_H
 
-int negate(int);
+int negate(int a);
 
 #endif //C_COMPILE_EXECUTE_BY_HAND_INVERT_H
